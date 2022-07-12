@@ -12,7 +12,7 @@ cd cmd
 ```
 
 ```golang
-gon run main.go
+go run main.go
 ```
 
 ## Usage
